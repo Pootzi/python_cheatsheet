@@ -1,1 +1,1 @@
-# redme file for cheatsheet.
+# readme file for cheatsheet.
