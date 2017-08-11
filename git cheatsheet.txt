@@ -1,0 +1,8 @@
+# add all new files
+git add -A
+
+# commit with description
+git commit -m "your commit description"
+
+# push changes to github repository
+git push
